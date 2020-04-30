@@ -15,8 +15,3 @@
 #Auth part4
 *Add Login routes
 *Add Login Form
-
-*
-*
-*
-*
