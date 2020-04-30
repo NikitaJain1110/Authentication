@@ -1,0 +1,11 @@
+{
+  "name": "authdemo",
+  "version": "1.0.0",
+  "description": "*Set up folder structure\r *Install neede packages\r *Add route and template\r *Add secret route and template",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
